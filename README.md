@@ -1,6 +1,8 @@
-# Cracking the coding interviews
+# Cracking the coding interview
 
-Here you can find my solutions for the quizzes
+Here you can find my solutions for the quizzes that you can find in the Cracking the coding interview Fourth Edition
+
+![alt text](cover-book.png "Cracking the coding interview")
 
 ## Chapter 1 | Arrays and Strings
 
