@@ -1,5 +1,5 @@
-import { stringReverse } from './chapter-02'
-describe('Chapter 02', () => {
+import { stringReverse } from './exercise-1.2'
+describe('Exercise 1.2', () => {
     it('should return null in case of null', () => {
         expect(stringReverse(null)).toEqual(null)
     })

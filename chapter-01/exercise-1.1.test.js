@@ -1,5 +1,5 @@
-import { stringHasUniqueChars } from './chapter-01'
-describe('Chapter 01', () => {
+import { stringHasUniqueChars } from './exercise-1.1'
+describe('Exercise 1.1', () => {
 
     it('should return false in case of a null string', () => {
         expect(stringHasUniqueChars()).toBe(false)

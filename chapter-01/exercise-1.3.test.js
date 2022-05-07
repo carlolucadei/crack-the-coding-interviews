@@ -1,5 +1,5 @@
-import { removeDuplicatesFromString } from './chapter-03'
-describe('Chapter 03', () => {
+import { removeDuplicatesFromString } from './exercise-1.3'
+describe('Exercise 1.3', () => {
     it('should return null in case of null', () => {
         expect(removeDuplicatesFromString(null)).toEqual(null)
     })
